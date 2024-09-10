@@ -1,0 +1,1 @@
+Dentro de las carpetas se encuentran todos los códigos utilizados, junto con los conjuntos de datos y archivos .csv generados.
